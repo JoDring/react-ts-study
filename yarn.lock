@@ -5738,7 +5738,7 @@ react-error-overlay@^4.0.1:
   version "4.0.1"
   resolved "http://registry.npm.taobao.org/react-error-overlay/download/react-error-overlay-4.0.1.tgz#417addb0814a90f3a7082eacba7cee588d00da89"
 
-react-scripts-ts@3.1.0:
+react-scripts-ts@^3.1.0:
   version "3.1.0"
   resolved "http://registry.npm.taobao.org/react-scripts-ts/download/react-scripts-ts-3.1.0.tgz#3f285c54b242ff6ecbfb91785060db10660ee7b0"
   dependencies:
